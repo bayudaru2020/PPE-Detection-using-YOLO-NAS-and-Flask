@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+  }
+  
+  main {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+  }
+  
+  .upload-section{
+    width: 45%;
+    margin-right: -10%;
+  }
+  
+  .result-section {
+    width: 45%;
+    margin-right: 13%;
+  }
+
+  h2 {
+    margin-bottom: 10px;
+  }
+  
+  #resultContainer {
+    border: 2px solid #ccc;
+    padding: 10px;
+    min-height: 480px;
+    min-width: 852px;
+  }
+  
+  #resultContainer video,
+  #resultContainer img {
+      max-height: 480px;
+      width: auto;
+  }
+
+  button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #555;
+  }
+  
+  input[type="file"] {
+    margin-bottom: 10px;
+  }
+  
