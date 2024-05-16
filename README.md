@@ -7,7 +7,7 @@ Dataset diimport dari [Roboflow]("https://universe.roboflow.com/project-uyrxf/pp
 
 ### 2. Pemilihan Model
 Model yang digunakan adalah YOLO-NAS. YOLO-NAS adalah model object detection baru dari Deci. YOLO-NAS memiliki performa yang baik dibanding model yolo yang lain dari segi kualitas dan efektivitas.
-![YOLO_NAS]("/img/yolo_nas_peforma")
+![YOLO_NAS]("/img/yolo_nas_peforma.png")
 
 ### 3. Evaluasi Model
 
